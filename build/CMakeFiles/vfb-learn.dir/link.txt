@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-learn.a CMakeFiles/vfb-learn.dir/vfb-learn.cpp.o
+/usr/bin/ranlib libvfb-learn.a

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net.dk/vfb-learn/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-learn.dir/vfb-learn.cpp.o -c /home/denis/vfb-net.dk/vfb-learn/vfb-learn.cpp",
+  "file": "/home/denis/vfb-net.dk/vfb-learn/vfb-learn.cpp"
+}
+]
